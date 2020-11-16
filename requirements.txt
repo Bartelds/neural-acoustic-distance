@@ -1,0 +1,11 @@
+dtw-python==1.1.6
+editdistance==0.5.3
+fairseq @ git+https://github.com/pytorch/fairseq@aa39ab1b4568479bf9a1360cfcdd4f4fce5f1838
+matplotlib==3.3.2
+numpy==1.19.1
+pandas==1.1.3
+scipy==1.5.2
+seaborn==0.11.0
+SoundFile==0.10.2
+torch==1.6.0
+tqdm==4.50.2
