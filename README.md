@@ -2,12 +2,18 @@
 Code associated with the paper: Neural Representations for Modeling Variation in English Speech.
 
 
-<!-- ## Citation
-
+## Citation
 
 ```bibtex
-
-``` -->
+@misc{bartelds2020neural,
+      title={Neural Representations for Modeling Variation in English Speech}, 
+      author={Martijn Bartelds and Wietse de Vries and Faraz Sanal and Caitlin Richter and Mark Liberman and Martijn Wieling},
+      year={2020},
+      eprint={2011.12649},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
 
 ## Installation
 
