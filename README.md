@@ -28,7 +28,7 @@ pip install -r requirements.txt
  - `/wav`
    - `{speaker_name}.wav`: recording of a speaker.
  - `/timestamps`
-   - `{speaker_name}.txt`: tab seperated list with word, start time, and end time.
+   - `{speaker_name}.txt`: tab seperated list with word, start time and end time.
  - `/lists`
    - `{name}.txt`: tab seperated list with speakers and optionally perceptual ratings.
 
@@ -68,7 +68,7 @@ python measure_distance.py -m wav2vec2-base -l 9 --onnx
 ```
 
 ## Benchmarks
-These results show the total run times for two `w2v2` models using a specified output layer on the Speech Accent Archive dataset.
+These results show the total run time for two `w2v2` models using a specified output layer on the Speech Accent Archive dataset.
 
 Hardware:
  - CPU: Intel Core i7-6900K
@@ -121,7 +121,7 @@ sys     2m15.958s
 ## Visualization tool
 We introduce a visualization tool that allows us to better understand the neural models. 
 
-These visualizations help to show the contribution of the neural features to the acoustic distances by highlighting where the distance between pronunciations is highest.
+These visualizations show the contribution of the neural features to the acoustic distances by highlighting where the distance between pronunciations is highest.
 
 The [online demo](bit.ly/visualization-tool) is publicly available, such that visualizations can be created of your own data using one of the Transformer-based neural methods evaluated in our paper.
 
