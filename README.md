@@ -170,3 +170,7 @@ python fairseq/scripts/process_embeddings.py \
         --dataset us \
         --layer 9
 ```
+
+## Reproducibility
+
+Running the code of this repository might result in minimally different results compared to those reported in the paper, due to version updates of the [fairseq](https://github.com/pytorch/fairseq/blob/master/examples/wav2vec/README.md), [awslabs](https://github.com/awslabs/speech-representations) or [Huggingface](https://huggingface.co/models?search=wav2vec2) models.
