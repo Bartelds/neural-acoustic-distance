@@ -5,15 +5,15 @@ Code associated with the paper: Neural Representations for Modeling Variation in
 
 ```bibtex
 @article{bartelds2021neural,
-title = {Neural representations for modeling variation in speech},
-journal = {Journal of Phonetics},
-volume = {92},
-pages = {101137},
-year = {2022},
-issn = {0095-4470},
-doi = {https://doi.org/10.1016/j.wocn.2022.101137},
-url = {https://www.sciencedirect.com/science/article/pii/S0095447022000122},
-author = {Martijn Bartelds and Wietse {de Vries} and Faraz Sanal and Caitlin Richter and Mark Liberman and Martijn Wieling}
+  title = {Neural representations for modeling variation in speech},
+  author = {Martijn Bartelds and Wietse {de Vries} and Faraz Sanal and Caitlin Richter and Mark Liberman and Martijn Wieling},
+  journal = {Journal of Phonetics},
+  volume = {92},
+  pages = {101137},
+  year = {2022},
+  issn = {0095-4470},
+  doi = {https://doi.org/10.1016/j.wocn.2022.101137},
+  url = {https://www.sciencedirect.com/science/article/pii/S0095447022000122}
 }
 ```
 
