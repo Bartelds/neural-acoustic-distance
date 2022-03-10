@@ -124,7 +124,7 @@ We introduce a visualization tool that allows us to better understand the neural
 
 These visualizations show the contribution of the neural features to the acoustic distances by highlighting where the distance between pronunciations is highest.
 
-The [online demo](https://colab.research.google.com/drive/193xTirkkgwzK9pDeYBPiQ0ehnVPJrtNn) is publicly available, such that visualizations can be created of your own data using one of the Transformer-based neural methods evaluated in our paper.
+The [online demo](https://huggingface.co/spaces/GroNLP/neural-acoustic-distance) is publicly available, such that visualizations can be created of your own data using one of the Transformer-based neural methods evaluated in our paper.
 
 ## Optional: non Transformer-based models
 Required files for using the non Transformer-based models are in the `fairseq` folder.
