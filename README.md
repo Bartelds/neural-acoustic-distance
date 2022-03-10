@@ -1,18 +1,19 @@
 # Neural Representations for Modeling Variation in Speech
 Code associated with the paper: Neural Representations for Modeling Variation in Speech.
 
-Submitted to Journal of Phonetics.
-
 ## Citation
 
 ```bibtex
-@misc{bartelds2021neural,
-      title={Neural Representations for Modeling Variation in Speech}, 
-      author={Martijn Bartelds and Wietse de Vries and Faraz Sanal and Caitlin Richter and Mark Liberman and Martijn Wieling},
-      year={2021},
-      eprint={2011.12649},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@article{bartelds2021neural,
+title = {Neural representations for modeling variation in speech},
+journal = {Journal of Phonetics},
+volume = {92},
+pages = {101137},
+year = {2022},
+issn = {0095-4470},
+doi = {https://doi.org/10.1016/j.wocn.2022.101137},
+url = {https://www.sciencedirect.com/science/article/pii/S0095447022000122},
+author = {Martijn Bartelds and Wietse {de Vries} and Faraz Sanal and Caitlin Richter and Mark Liberman and Martijn Wieling}
 }
 ```
 
